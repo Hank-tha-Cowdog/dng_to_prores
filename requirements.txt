@@ -1,0 +1,9 @@
+# System Requirements
+
+Required packages:
+- dcraw
+- ffmpeg (with ProRes support)
+
+# Version Requirements
+- dcraw >= 9.28
+- ffmpeg >= 4.2 (with ProRes support)
