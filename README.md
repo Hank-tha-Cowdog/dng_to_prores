@@ -101,10 +101,6 @@ The script creates required directories automatically. If a directory already ex
 
 Feel free to fork this repository and submit pull requests for any improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - dcraw for high-quality RAW conversion
